@@ -7,7 +7,7 @@
   "private": true,
   "scripts": {
     "build": "babel src -d serve",
-    "start": "node serve"
+    "start": "node serve/app.js"
   },
   "devDependencies": {
     "axios": "^0.18.0",
