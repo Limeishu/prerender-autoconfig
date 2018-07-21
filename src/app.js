@@ -12,4 +12,5 @@ const app = {
 }
 
 app.writeFile('https://api.limeishu.org.tw/news', '/culture/news/')
+app.writeFile('https://api.limeishu.org.tw/post', '/culture/post/')
 app.writeFile('https://api.limeishu.org.tw/creation', '/intro/museum/')
